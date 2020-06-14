@@ -1,4 +1,4 @@
-/*
+/*1
    american fuzzy lop - file format analyzer
    -----------------------------------------
 
